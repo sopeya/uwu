@@ -63,6 +63,9 @@ margin: 15;
 ul li{
 list-style-type: none;
 }
+li a{
+font-family: Palatino;
+}
 
 a{
 color: #35271E;
